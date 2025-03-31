@@ -10,7 +10,7 @@
 |06|[Goggle](#team-06)| LangChain 기반 AI 바둑 복기(復棋) 서비스 : 중급자 실력 향상을 위한 맞춤형 LLM해설 지원
 |07|[테스파](#team-07)| Back-Pack: Collaborative Knowledge Transfer with Diverse Backbone Selection Beyond Modality
 |08|[eiai](#team-08)| THANOS: Integrating HPO and NAS for Hardware-Aware Transformer Optimization under Memory Size Constraints
-|09|[Jppin](#team-09)| 임산부를 위한 복약정보 연동, RAG 기반, 개인맞춤형 영양보충 가이드 시스템
+|09|[Jppin](#team-09)| 임산부 대상 복약정보 연동·RAG 기반 개인맞춤형 영양보충 가이드 시스템
 |10|[X10](#team-10)| 음성 분석 기반 졸음 감지 및 개인화된 음성 대화를 통한 졸음 운전 예방 서비스
 |11|[nAIvis](#team-11)| 지속 학습을 적용한 치명적 망각 해결과 Deep Fingerprinting model 강화
 |12|[미룬이들](#team-12)| 냉장고 속 식재료의 신선도와 소비기한을 관리하고 AI 기반 맞춤형 레시피를 추천해주는 플랫폼
@@ -170,15 +170,15 @@
 [Return TOP](#list-of-teamsprojects)
  
 # Team-09
-| (1) 과제명 | *임산부를 위한 복약정보 연동, RAG 기반, 개인맞춤형 영양보충 가이드 시스템* |
+| (1) 과제명 | *임산부 대상 복약정보 연동·RAG 기반 개인맞춤형 영양보충 가이드 시스템* |
 |:---  |---  |
 | (2) 팀 번호 / 팀 이름 | 09-Jppin |
 | (3) 팀 구성원 | 강명진(2217001): 리더, FE/BE<br> 김주예(2076086): 팀원, FE/BE <br> 유현서(2271041) : 팀원, FE/BE			 |
 | (4) 팀 지도교수 | 심재형 교수님 |
 | (5) 과제 분류 | 산학 |
 | (6) 과제 키워드 | 임산부, RAG, 맞춤형 영양보충 가이드, 의약품 복용 내역  |
-| (7) 과제 내용 요약 | 이 프로젝트는 임산부들을 위한 맞춤형 영양 성분 추천과 식단섭취 가이드 서비스를 개발하는 것이다. <br>사용자의 개인 건강 상태와 임신 주차에 맞춰 영양 성분과 식단 가이드를 생성해 사용자에게 적시적절한 추천을 한다. 또한, 약물과 영양소 간의 상호작용을 고려해 개인화된 영양 관리를 제공한다. <br>이를 통해 임산부가 더 효율적으로 영양을 관리하고, 건강한 임신을 유지할 수 있도록 지원한다. <br>최종 목표는 정보의 접근성과 사용 편의성을 높여 임산부들이 보다 쉽고 정확한 영양섭취와 건강관리를 할 수 있게 돕는 것이다. |
-| (8) 주요 Link | [>>Jppin Github repo <<](https://github.com/Jppin/CapstoneReport/blob/main/Capstone-1stReport-09-Jppin%20v1-2025-03-22.md) |
+| (7) 과제 내용 요약 | 본 프로젝트는 임산부를 위한 맞춤형 영양 성분 추천과 식단 섭취 가이드 서비스를 개발하는 것을 목표로 한다.<br>사용자의 건강 상태와 임신 주차 정보를 바탕으로, 권장 및 주의가 필요한 영양소를 도출하고 이에 따라 개인 맞춤형 식단 가이드를 생성한다.<br>또한, 약물과 영양소 간의 상호작용까지 고려하여 더욱 정밀한 영양 관리가 가능하도록 설계되었다.<br>이를 통해 임산부는 효율적으로 영양을 관리하고, 건강한 임신을 유지할 수 있으며,<br>최종적으로는 정보 접근성과 사용 편의성을 높여 보다 쉽고 정확한 건강관리를 실현하는 것을 지향한다. |
+| (8) 주요 Link | [>>Jppin Github Org<<](https://github.com/Jppin/CapstoneReport/blob/main/Capstone-1stReport-09-Jppin%20v1-2025-03-22.md) |
  
 <br>
  
