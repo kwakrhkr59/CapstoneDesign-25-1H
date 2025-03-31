@@ -279,12 +279,12 @@
 | (1) 과제명 |  위성인터넷 해킹을 통한 프라이버시 유출 방지를 위한 Fingerprinting 기법을 활용한 Starlink 네트워크 취약점 분석 |
 |:---  |---  |
 | (2) 팀 번호/이름 | 16-RexT |
-| (3) 구성원 | 곽현정(2171003): 리더,*역할,...* <br> 강호성(2171002): 팀원,*역할,....* <br> 홍지우(2171053): 팀원,*역할,....* |
+| (3) 구성원 | 곽현정(2171003): 팀장, Llama/Triplet기반 모델 학습, 기말 발표 <br> 강호성(2171002): 팀원, LaserBeak 기반 모델 학습, 하이퍼 파라미터 튜닝, 중간 발표 <br> 홍지우(2171053): 팀원, DF 기반 모델 학습, 데이터 전처리/분석, 계획 발표	 |
 | (4) 지도교수 | 오세은 교수 |
 | (5) 트랙  | 연구 |
-| (6) 과제 키워드 | Starlink Network, AI for security, Website Fingerprinting |
-| (7) 과제 내용 요약 |   |
-| (8) 주요 Link |  |
+| (6) 과제 키워드 | Starlink Network, AI for security, Cyber Security, Website Fingerprinting |
+| (7) 과제 내용 요약 | 본 연구는 Starlink와 같은 저궤도 위성 인터넷 환경에서도 Website Fingerprinting(WF) 공격이 가능한지를 실증적으로 분석하고, 특화된 공격 기법을 제안하는 것을 목표로 한다. 암호화된 트래픽에서도 패킷의 메타데이터를 분석해 웹사이트 방문 패턴을 추론하는 WF 기법은 기존 유선망에선 높은 정확도를 보였으나, Starlink 환경에선 성능이 급감한다. 이를 극복하기 위해 본 연구에서는 Starlink의 특수한 네트워크 특성을 반영한 Transformer 기반 공격 모델을 설계하고 있다. 실제 환경에서 수집한 데이터를 바탕으로 baseline 모델과 비교하며 성능을 향상시키고 있으며, 초기 실험에서 56% 정확도를 달성하였다. 궁극적으로는 Starlink 환경에 적합한 WF 공격 기법을 제안하고, 향후 위성 네트워크 보안 프레임워크 개발로 확장할 계획이다.  |
+| (8) 주요 Link | [Github 레포지토리](https://github.com/Capstone-RexT/starprint) <br>[Github 조직 페이지](https://github.com/Capstone-RexT) |
  
 <br>
  
