@@ -344,7 +344,7 @@
 | (5) 트랙  | 산학 |
 | (6) 과제 키워드 | DeepLabV3+, Image Segmentation, Deep Fashion |
 | (7) 과제 내용 요약 | 도안을 구하기 어려운 뜨개인들을 위해 Image Segmentation(DeepLab)을 활용하여 제품 이미지에서 뜨개질 패턴 추출 및 도안을 생성하고 커뮤니티 기능을 제공하는 서비스. 사용자가 촬영한 스웨터 이미지를 업로드했을 때, 해당 스웨터 뜨개방식을 구분하여 뜨개질 도안을 제공한다. AI의 오차 가능성을 보완하기 위해, 사용자 간 커뮤니티 기능을 함께 제공한다.  |
-| (8) 주요 Link | https://www.kaggle.com/code/balraj98/deeplabv3-resnet101-for-segmentation-pytorch/notebook <br> https://opencv.org/ |
+| (8) 주요 Link | https://github.com/KnittingGirls/KnittingGirls |
  
 <br>
  
