@@ -200,15 +200,15 @@
 [Return TOP](#list-of-teamsprojects)
  
 # Team-11
-| (1) 과제명 |  지속 학습을 적용한 치명적 망각 해결과 Deep Fingerprinting model 강화 |
+| (1) 과제명 |  Elastic Weight Consolidation을 활용한 Deep Fingerprinting: Catastrophic Forgetting 완화와 정확도 향상 |
 |:---  |---  |
 | (2) 팀 번호/이름 | 11-nAIvis |
-| (3) 구성원 | 배주원(2271031): 리더,*역할,...* <br> 신유진(2271034): 팀원,*역할,....* <br> 이서연(2276217): 팀원,*역할,....* |
+| (3) 구성원 | 배주원(2271031): 리더, 외부 소통 책임, 피드백과 과제 역할 문담, 학회 논문 제출 과정 책임, 실험 수행 및 논문 작성 <br> 신유진(2271034): 팀원, 실험 수행 및 논문 작성, 시각 자료 편집, Overleaf 관리 <br> 이서연(2276217): 팀원, 자료 신뢰성 확인 및 정리, 실험 수행 및 논문 작성 |
 | (4) 지도교수 | 오세은 교수 |
 | (5) 트랙  | 연구 |
 | (6) 과제 키워드 | Continual Learning, Deep Fingerprinting, network security |
-| (7) 과제 내용 요약 |   |
-| (8) 주요 Link |  |
+| (7) 과제 내용 요약 | 네트워크 트래픽을 통해 사용자의 방문 기록을 해킹하는 웹사이트 핑거프린팅(Website Fingerprinting, WF) 공격은 Tor 네트워크 사용자의 프라이버시를 심각하게 위협하는 보안 문제 중 하나이다. 특히, 딥러닝 기반의 Deep Fingerprinting(DF) 기법은 WF 공격의 정확도를 크게 향상시켰으나, 대부분의 기존 DF 모델은 정적인 데이터셋을 기반으로 학습되어 시간에 따른 트래픽 변화에 대응하지 못하는 한계가 있다. 본 연구는 이러한 문제를 해결하기 위해 Continual Learning(CL) 기법 중 하나인 Elastic Weight Consolidation(EWC)을 DF 모델에 적용한다. EWC는 새로운 데이터 학습 시 기존 지식을 보존하도록 가중치 중요도를 규제로서 추가하는 기법으로, 이를 통해 시간 경과에 따른 성능 저하 문제를 완화하고자 한다. 제안한 방법의 성능을 검증하기 위해 BigEnough 데이터셋을 분할 활용하여 기존 DF 모델과 EWC 기반 DF 모델을 비교 실험하였으며, EWC를 적용한 모델은 기존 대비 성능 저하 폭이 감소됨을 보여 EWC의 효과를 입증한다. |
+| (8) 주요 Link | https://github.com/baejuwon-30/2024-2-nAIvis/blob/main/Ground_Rule.MD |
  
 <br>
  
