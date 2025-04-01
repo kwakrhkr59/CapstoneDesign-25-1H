@@ -549,12 +549,12 @@
 | (1) 과제명 |  Linceiver IO: Reducing Computational Cost in Federated Learning with Adaptive Low-Rank Perceiver IO |
 |:---  |---  |
 | (2) 팀 번호/이름 | 34-IT인 |
-| (3) 구성원 | 심영은(2194058): 리더,*역할,...* <br> 김경희(2276034): 팀원,*역할,....* <br> 이채원(2171039): 팀원,*역할,....* |
+| (3) 구성원 | 심영은 (2194058): 리더, *실험용 서버구축 및 운영, 연합학습 환경 설계 및 구현, 통계분석 및 시각화* <br> 김경희 (2276034): 팀원, *모델 경량화 및 효율성 최적화, seqeunce length에 적응적으로 대응하는 모델 설계 및 구현* <br> 이채원 (2171039) : 팀원, *팀 레포지토리 및 산출물 관리, 모델 최적화 및 성능 개선, 실험 확장을 위한 다중 데이터셋 통합 구축 및 데이터*  |
 | (4) 지도교수 | 이형준 교수 |
 | (5) 트랙  | 연구 |
 | (6) 과제 키워드 | Perceiver IO, Linformer, Federated Learning |
-| (7) 과제 내용 요약 |   |
-| (8) 주요 Link |  |
+| (7) 과제 내용 요약 |  현대의 분산 데이터 환경에서는 클라이언트들이 서로 다른 데이터 유형을 보유하고 있으며, 이는 연합학습의 성능 저하로 이어진다. 본 과제는 멀티모달 연합학습에서 이질성 문제(Heterogeneity Gap)를 해결하면서도, 자원이 부족한 디바이스에서도 사용 가능한 경량 모델을 개발하고자 한다. 이 프로젝트에서는 범용성이 뛰어난 Perceiver IO 모델을 컴퓨팅 자원이 부족한 연합학습 클라이언트에 적용하기 위한 경량화 모델인 Linceiver IO를 제안한다. Linceiver IO의 경우 Perceiver IO의 attention 연산에 Linformer 구조를 적용하여 계산 복잡도를 줄일 수 있다.  |
+| (8) 주요 Link | [팀 Github 레포지토리](https://github.com/Capstone-IT-in/CapstoneDesignProject) |
  
 <br>
  
