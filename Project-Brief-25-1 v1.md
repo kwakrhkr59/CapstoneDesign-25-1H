@@ -143,12 +143,12 @@
 | (1) 과제명 |  Back-Pack: Collaborative Knowledge Transfer with Diverse Backbone Selection Beyond Modality |
 |:---  |---  |
 | (2) 팀 번호/이름 | 07-테스파 |
-| (3) 구성원 | 조민주(2176359): 리더,*역할,...* <br> 정지수(2176352): 팀원,*역할,....* <br> 한유리(2271065): 팀원,*역할,....* |
+| (3) 구성원 | 조민주(2176359): 리더, Perceiver 모델 개발 및 실험, 실험 환경 관리, Multi-modal 실험환경 개발, 1:N Backbone model 구축 및 개발, Scalability Test <br> 정지수(2176352): 팀원, Perceiver IO 모델 개발 및 실험, Dataset 전처리, Backbone model 선택 실험, Scalability Test <br> 한유리(2271065) : 팀원, BEiT-3 모델 개발 및 실험, 실험 서버 관리, Dataset 호환성 관리, Backbone model 선택, 실험 설계 및 통계적 검정, Scalability Test |
 | (4) 지도교수 | 이형준 교수 |
 | (5) 트랙  | 연구 |
 | (6) 과제 키워드 | Continuous learning, 1:N Federated learning, Edge AI, Multi-modality |
-| (7) 과제 내용 요약 |   |
-| (8) 주요 Link |  |
+| (7) 과제 내용 요약 | 분산형 지속 학습 환경에서는 다양한 백본(backbone) 모델을 사용하는 각 디바이스 간에 과제(task)와 모달리티(image, text)를 넘나드는 지식 전이가 큰 도전 과제로 남아 있다. 본 연구에서는 Back-Pack이라는 협업 학습 프레임워크를 제안하여, 디바이스마다 여러 개의 backbone을 유지하면서 이미지와 텍스트 간, 혹은 동일 모달 내에서 선택적으로 지식을 다중전이할 수 있도록 한다. 우리는 지속적인 분류 학습 환경에서 지식 전이의 방향성에 따라 성능이 일관되게 향상되는 경향이 있음을 실험적으로 관찰하였고, 다수의 모델에서 추출한 지식을 하나의 백본에 융합(packing)할 경우 추가적으로 성능 향상을 확인하였다. 본 연구는 분산형 다모달 지속학습 환경에서 지식전이의 방향성과 모델 융합 전략이 핵심적인 요소임을 실증적으로 밝힌다. |
+| (8) 주요 Link | https://github.com/EWHA-Tespa |
  
 <br>
  
